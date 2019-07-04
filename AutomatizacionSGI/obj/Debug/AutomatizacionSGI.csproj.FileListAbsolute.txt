@@ -1,0 +1,108 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\Alx.Web.Screenshot.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\nunit.framework.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.Support.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\nunit.framework.xml
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.xml
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.Support.xml
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.pdb
+C:\Indra\Selenium\Proyectos\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.exe.config
+C:\Indra\Selenium\Proyectos\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.exe
+C:\Indra\Selenium\Proyectos\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.pdb
+C:\Indra\Selenium\Proyectos\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\Alx.Web.Screenshot.dll
+C:\Indra\Selenium\Proyectos\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\nunit.framework.dll
+C:\Indra\Selenium\Proyectos\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.dll
+C:\Indra\Selenium\Proyectos\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.Support.dll
+C:\Indra\Selenium\Proyectos\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\nunit.framework.xml
+C:\Indra\Selenium\Proyectos\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.xml
+C:\Indra\Selenium\Proyectos\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.Support.xml
+C:\Indra\Selenium\Proyectos\AutomatizacionSGI\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.csprojResolveAssemblyReference.cache
+C:\Indra\Selenium\Proyectos\AutomatizacionSGI\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.exe
+C:\Indra\Selenium\Proyectos\AutomatizacionSGI\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.pdb
+C:\Users\nc01843\Desktop\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.exe.config
+C:\Users\nc01843\Desktop\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.exe
+C:\Users\nc01843\Desktop\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.pdb
+C:\Users\nc01843\Desktop\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\Alx.Web.Screenshot.dll
+C:\Users\nc01843\Desktop\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\nunit.framework.dll
+C:\Users\nc01843\Desktop\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.dll
+C:\Users\nc01843\Desktop\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.Support.dll
+C:\Users\nc01843\Desktop\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\nunit.framework.xml
+C:\Users\nc01843\Desktop\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.xml
+C:\Users\nc01843\Desktop\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.Support.xml
+C:\Users\nc01843\Desktop\AutomatizacionSGI\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.exe
+C:\Users\nc01843\Desktop\AutomatizacionSGI\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI - copia\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI - copia\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI - copia\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI - copia\AutomatizacionSGI\bin\Debug\Alx.Web.Screenshot.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI - copia\AutomatizacionSGI\bin\Debug\nunit.framework.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI - copia\AutomatizacionSGI\bin\Debug\WebDriver.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI - copia\AutomatizacionSGI\bin\Debug\WebDriver.Support.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI - copia\AutomatizacionSGI\bin\Debug\nunit.framework.xml
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI - copia\AutomatizacionSGI\bin\Debug\WebDriver.xml
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI - copia\AutomatizacionSGI\bin\Debug\WebDriver.Support.xml
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI - copia\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI - copia\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\Alx.Web.Screenshot.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\nunit.framework.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.Support.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\nunit.framework.xml
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.xml
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.Support.xml
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\AutomatizacionSGI\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.pdb
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.exe.config
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.exe
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.pdb
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\Alx.Web.Screenshot.dll
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\nunit.framework.dll
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.dll
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.Support.dll
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\nunit.framework.xml
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.xml
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI\AutomatizacionSGI\bin\Debug\WebDriver.Support.xml
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.exe
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.pdb
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.dll.config
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.dll
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.pdb
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\Alx.Web.Screenshot.dll
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\Excel.dll
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\ICSharpCode.SharpZipLib.dll
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\nunit.framework.dll
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\WebDriver.dll
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\WebDriver.Support.dll
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\Excel.pdb
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\nunit.framework.xml
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\WebDriver.xml
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\WebDriver.Support.xml
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.csprojResolveAssemblyReference.cache
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.csproj.ResolveComReference.cache
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.dll
+N:\PROYECTOS\AUTOMATIZACION\AutomatizacionSGI (NICO)\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.pdb
+C:\INDRA\Automatización\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.dll
+C:\INDRA\Automatización\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\Excel.dll
+C:\INDRA\Automatización\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\INDRA\Automatización\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\nunit.framework.dll
+C:\INDRA\Automatización\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\WebDriver.dll
+C:\INDRA\Automatización\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\WebDriver.Support.dll
+C:\INDRA\Automatización\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.dll.config
+C:\INDRA\Automatización\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\AutomatizacionSGI.pdb
+C:\INDRA\Automatización\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\Alx.Web.Screenshot.dll
+C:\INDRA\Automatización\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\Excel.pdb
+C:\INDRA\Automatización\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\nunit.framework.xml
+C:\INDRA\Automatización\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\WebDriver.xml
+C:\INDRA\Automatización\AutomatizacionSGI (NICO)\AutomatizacionSGI\bin\Debug\WebDriver.Support.xml
+C:\INDRA\Automatización\AutomatizacionSGI (NICO)\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.csproj.ResolveComReference.cache
+C:\INDRA\Automatización\AutomatizacionSGI (NICO)\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.dll
+C:\INDRA\Automatización\AutomatizacionSGI (NICO)\AutomatizacionSGI\obj\Debug\AutomatizacionSGI.pdb
